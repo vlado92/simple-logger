@@ -1,0 +1,23 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "Simple javascript logger with minimal dependecies",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlado92/simple-logger.git"
+  },
+  "keywords": [
+    "simple-logger",
+    "logger"
+  ],
+  "author": "Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlado92/simple-logger/issues"
+  },
+  "homepage": "https://github.com/vlado92/simple-logger#readme"
+}
