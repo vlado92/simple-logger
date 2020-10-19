@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger",
+  "name": "pure-js-logger",
   "version": "1.0.0",
   "description": "Simple javascript logger with minimal dependecies",
   "main": "index.js",
