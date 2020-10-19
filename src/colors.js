@@ -17,7 +17,7 @@ class Nzu {
                 .slice(0, 1)
                 .map((s) => `\x1b[${s[0]}m${arg}\x1b[${s[1]}m`)
                 .concat(reset)
-                .join();
+                .join('');
 
               self.str = [];
               return arg2;
